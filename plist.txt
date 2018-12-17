@@ -1,3 +1,3 @@
-wav-simple=
+wav-simple=https://github.com/artdeell/winapt-repo/raw/master/pkg/wav-simple.zip
 ls=
 sudo=
